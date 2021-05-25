@@ -15,3 +15,23 @@ main a {
   color: aquamarine;
   font-size: 16px;
 }
+
+.info h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.info p,
+footer {
+  font-size: 21px;
+  color: gray;
+}
+
+.icon-phone {
+  padding-top: 20px;
+}
+
+footer {
+  text-align: right;
+}
